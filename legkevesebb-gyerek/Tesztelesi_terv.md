@@ -1,3 +1,9 @@
+# Feladat: "A legkevesebb gyerek"
+
+A Mester jelentése a megoldásomról:
+
+![eredmény](Mester_riport.png)
+
 # Tesztelési terv
 
 | Sorszám | Teszteset                                                    | Tesztállomány neve | Elvárt kimenet |
