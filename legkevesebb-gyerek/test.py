@@ -27,7 +27,7 @@ def execute(test_cases):
     for case in test_cases:
         output = run_test(case["test_input_file"])
         result = "pass" if output == case["expected_output"] else "fail"
-        print(f"Actual: {output} \tExpected: {case['expected_output']} \tResult: {result}")
+        print(f"Test case: {case['test_input_file']} \tActual: {output} \tExpected: {case['expected_output']} \tResult: {result}")
 
 
 def main():

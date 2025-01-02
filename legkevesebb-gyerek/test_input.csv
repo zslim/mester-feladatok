@@ -1,0 +1,5 @@
+file,expected_output
+test_1.txt,7
+test_2.txt,4
+test_3.txt,4
+test_4.txt,2
